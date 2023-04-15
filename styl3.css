@@ -1,0 +1,64 @@
+*
+{
+	font-family:Georgia;
+}
+header, footer
+{
+	background-color:#000000;
+	color:white;
+	padding:10px;
+	text-align:center;
+}
+main
+{
+	display:flex;
+}
+nav
+{
+	width:12%;
+	text-align:center;
+	color:black;
+}
+section
+{
+	background-color:Snow;
+	width:76%;
+	text-align:center;
+	padding-top:50px;
+}
+aside
+{
+	width:12%;
+	text-align:center;
+	color:black;
+}
+li
+{
+	margin:5px;
+}
+li::marker
+{
+	color:Snow;
+}
+h1
+{
+background-image: url('tlo_tytul.png'); background-repeat: no-repeat;"
+}
+h3
+{
+	margin-top:50px 0;
+	background-color:#D83F59;
+	
+}
+body
+{
+	margin:0px;
+}
+img::hover
+{
+	background-color:black;
+}
+h4
+{
+	background-color:#f0f0f0;
+}
